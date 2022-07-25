@@ -2,7 +2,6 @@
 - 👀 I’m interested in Javascript and Typecript
 - 🌱 I’m currently learning Node.js and mongo
 - 💞️ I’m looking to collaborate on Angular/Javascript libraries or similar projects
-- 📫 How to reach me rohit.tiwari506@gmail.com
 
 <!---
 itcantbe/itcantbe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
