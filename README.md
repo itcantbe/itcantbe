@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itcantbe
-- 👀 I’m interested in Javascript and Typecript
-- 🌱 I’m currently learning Node.js and mongo
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning next.js
 - 💞️ I’m looking to collaborate on Angular/Javascript libraries or similar projects
 
 <!---
