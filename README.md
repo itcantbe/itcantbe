@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itcantbe
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning next.js
+- 🌱 I’m currently learning .Net and AI/ML
 - 💞️ I’m looking to collaborate on Angular/Javascript libraries or similar projects
 
 <!---
