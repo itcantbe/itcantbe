@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itcantbe
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning .Net and AI/ML
-- 💞️ I’m looking to collaborate on Angular/Javascript libraries or similar projects
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning AI/ML
+- 💞️ I’m looking to collaborate on Data Science libraries or similar projects
 
 <!---
 itcantbe/itcantbe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
